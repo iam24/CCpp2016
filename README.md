@@ -2,19 +2,7 @@
 
 ## 基本操作流程
 
-1. 从 [https://github.com/luckymark/CCpp2016](https://github.com/luckymark/CCpp2016) fork 到你自己的github中
-2. 创建本地仓库：(如果用机房的电脑，则建议clone到U盘，便于携带)
-
-	```
-	git clone https://github.com/ **YourGithubAccount** /CCpp2016
-	cd CCpp2016
-	ls
-	
-	git config user.name=???
-	git config user.email=??? 
-	
-	git remote -v
-	git remote add upstream https://github.com/luckymark/CCpp2016
+1. 从 [https://github.com/luckymark/CCpp2016](https://github.com/luckymark/C/luckymark/CCpp2016
 	```
 	
 3. 修改、提交代码：
